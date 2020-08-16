@@ -19,7 +19,7 @@ I'm a Front-End Developer who is passionate about making creative website and ap
 - [ ] Gatsby + CMS
  
 <br/> 
-# Learning checklist 2021
+#Learning checklist 2021
 
 - [ ] GraphQL
 - [ ] Node.js, Express
@@ -31,5 +31,5 @@ I'm a Front-End Developer who is passionate about making creative website and ap
 - [ ] Figma
   
 
-Linkedin profile:
+Linkedin profile: <br/>
 ➡️ https://www.linkedin.com/in/ina-hranova/
