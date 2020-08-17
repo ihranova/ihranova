@@ -1,5 +1,5 @@
 # Hi, I'm Ina
-I'm a Front-End Developer who is passionate about making creative website and applications. Some technologies I enjoy working with include ReactJS, React Native and Wordpress/<a href = "https://headlesscms.org/">Headless CMS</a>. <br/>
+I'm a Front-End Web Developer who is passionate about making creative website and applications. Some technologies I enjoy working with include ReactJS, React Native and Wordpress/<a href = "https://headlesscms.org/">Headless CMS</a>. <br/>
 
 # Skills:
 - [x] HTML & CSS3 including flex, animations, grids, Bootstrap
