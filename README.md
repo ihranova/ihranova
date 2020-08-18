@@ -3,7 +3,7 @@ I'm a Front-End Web Developer who is passionate about making creative website an
 
 # Skills:
 - [x] HTML & CSS3 including flex, animations, grids, Bootstrap
-- [x] Wordpress Development including PSD to custom theme, hooks, functions, shortcodes, customizion settings and ects.
+- [x] Wordpress Development including PSD to custom theme, hooks, functions, shortcodes, customization settings and ects.
 - [x] Javascript, jQuery, AJAX
 - [x] Digital marketing - SEO, Google Webmaster Tools, Google Speed Score, Google Search Console, Google My Business
 - [x] Digital marketing tools: MailChimp, Hubspot, Campain Monitor, Beetle Eye 
