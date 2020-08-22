@@ -13,7 +13,7 @@ I'm a Front-End Web Developer who is passionate about making creative websites a
 - [x] React Native
 - [x] React
 - [x] Redux, Redux Saga
-- [ ] PropTypes
+- [x] PropTypes
 - [ ] Firebase
 - [ ] Webpack
 - [ ] Strapi
