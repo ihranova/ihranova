@@ -20,17 +20,6 @@ I'm a Front-End Web Developer who is passionate about making creative websites a
 - [ ] Gatsby + CMS
  
 <br/> 
-#Learning checklist 2021
-
-- [ ] GraphQL
-- [ ] Node.js, Express
-- [ ] Mongodb
-- [ ] API Development
-- [ ] MERN
-- [ ] Stripe
-- [ ] AWS
-- [ ] Figma
-  
 
 Linkedin profile: <br/>
 ➡️ https://www.linkedin.com/in/ina-hranova/
