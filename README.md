@@ -1,5 +1,5 @@
 # Hi, I'm Ina <img class="emoji" alt="wave" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">
-I'm a Front-End Web Developer who is passionate about making creative websites and applications. Some technologies I enjoy working with include ReactJS, React Native and Wordpress/<a href = "https://headlesscms.org/">Headless CMS</a>. <br/>
+I'm a Front-End Web Developer who is passionate about making creative websites and applications. Some technologies I enjoy working with include ReactJS, React Native, Firebase and Wordpress/<a href = "https://headlesscms.org/">Headless CMS</a>. <br/>
 
 # Skills:
 - [x] HTML & CSS3 including flex, animations, grids, Bootstrap
