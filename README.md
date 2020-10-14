@@ -18,6 +18,7 @@ I'm a Front-End Web Developer who is passionate about making creative websites a
 - [ ] Webpack
 - [ ] Strapi
 - [ ] Gatsby + CMS
+- [ ] web scraping with node.js
  
 <br/> 
 
