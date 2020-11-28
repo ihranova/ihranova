@@ -40,7 +40,7 @@ Additional Skills: Terminal, DNS, NPM, Google Analytics, CMS, Accessibility, Opt
 - [ ] Webpack
 - [ ] Strapi
 - [ ] Gatsby + CMS
-- [ ] web scraping with node.js
+- [ ] web scraping
  
 <br/> 
 
