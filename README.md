@@ -30,17 +30,18 @@ Additional Skills: Terminal, DNS, NPM, Google Analytics, CMS, Accessibility, Opt
 - [x] Digital marketing - SEO, Google Webmaster Tools, Google Speed Score, Google Search Console, Google My Business
 - [x] Digital marketing tools: MailChimp, Hubspot, Campain Monitor, Beetle Eye 
 
-# Learning checklist 2020 💡
+# Learning checklist 2020 & 2021 💡
 
 - [x] React Native
 - [x] React
 - [x] Redux, Redux Saga
 - [x] PropTypes
 - [ ] Firebase
-- [ ] Webpack
+- [x] Webpack
 - [ ] Strapi
 - [ ] Gatsby + CMS
-- [ ] web scraping
+- [ ] Gutenberg
+- [x] web scraping
  
 <br/> 
 
