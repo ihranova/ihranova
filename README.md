@@ -1,5 +1,5 @@
 # Hi, I'm Ina <img class="emoji" alt="wave" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">
-I'm a full-stack web developer with a front-end focus. I have 4+ years of experience in the web development field. You will find me developing creative websites using HTML, CSS/SASS, WordPress, JavaScript, jQuery, React, Gatsby, APIs, and mobile applications using React Native. I'm a fast learner and take pride in building websites and applications that are responsive, accessible, and have a great user experience. Additionally, I am using back-end technologies such as WordPress, Node.js, Express.js, and GraphQL.<br/>
+I'm a full-stack web developer with a front-end focus. I have 5+ years of experience in the web development field. You will find me developing creative websites using HTML, CSS/SASS, WordPress, JavaScript, jQuery, React, Gatsby, APIs, and mobile applications using React Native. I'm a fast learner and take pride in building websites and applications that are responsive, accessible, and have a great user experience. Additionally, I am using back-end technologies such as WordPress, Node.js, Express.js, and GraphQL.<br/>
 
 
 My services include:<br/>
@@ -24,23 +24,24 @@ Additional Skills: Terminal, DNS, NPM, Google Analytics, CMS, Accessibility, Opt
 
 # Skills:
 - [x] HTML & CSS3 including flex, animations, grids, Bootstrap
-- [x] Wordpress Development including PSD to custom theme, hooks, functions, ACF pro, shortcodes, customization settings ect.
+- [x] Wordpress Development including PSD/Figma to custom theme, hooks, functions, ACF pro, shortcodes, customization settings ect.
 - [x] Javascript, jQuery, AJAX, JSON 
 - [x] Speed Optimization, SEO, Technical SEO Audit
 - [x] Digital marketing - SEO, Google Webmaster Tools, Google Speed Score, Google Search Console, Google My Business
 - [x] Digital marketing tools: MailChimp, Hubspot, Campain Monitor, Beetle Eye 
 
-# Learning checklist 2020 & 2021 💡
+# Learning checklist 2020 - 2021 💡
 
 - [x] React Native
 - [x] React
 - [x] Redux, Redux Saga
 - [x] PropTypes
-- [ ] Firebase
+- [ ] Gutenberg
 - [x] Webpack
+- [ ] Firebase
 - [ ] Strapi
 - [ ] Gatsby + CMS
-- [ ] Gutenberg
+- [ ] TailwindCSS
 - [x] web scraping
  
 <br/> 
