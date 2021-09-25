@@ -43,7 +43,8 @@ Additional Skills: Terminal, DNS, NPM, Google Analytics, CMS, Accessibility, Opt
 - [ ] Gatsby/Next.js + CMS
 - [ ] TailwindCSS 
 <br/> 
-# Planning to Learn checklist 2021 💡
+# Planning to Learn checklist 2022 💡
+
 - [ ] AWS
 - [ ] GSAP
 - [ ] Gutenberg
