@@ -30,6 +30,9 @@ Additional Skills: Terminal, DNS, NPM, Google Analytics, CMS, Accessibility, Opt
 - [x] Digital marketing - SEO, Google Webmaster Tools, Google Speed Score, Google Search Console, Google My Business
 - [x] Digital marketing tools: MailChimp, Hubspot, Campain Monitor, Beetle Eye 
 
+<br/>
+<a href="https://app.daily.dev/ihranova"><img src="https://api.daily.dev/devcards/e0362ca8ecc64566ad37d40178a22f8d.png?r=qph" width="300" alt="Ina Hranova's Dev Card"/></a>
+
 # Learning checklist 2021 💡
 
 - [x] React Native
