@@ -5,7 +5,7 @@ I'm a full-stack web developer with a front-end focus. I have 5+ years of experi
 My services include:<br/>
 ✔️ Web applications with React and Gatsby<br/>
 ✔️ Front-end (HTML/CSS/JS) development<br/>
-✔️ Gatsby website development<br/>
+✔️ Gatsby/Next.js website development<br/>
 ✔️ WordPress theme development<br/>
 ✔️ Integration with third-party services<br/>
 ✔️ Email Development - Hubspot, Mailchimp, Campain Monitor, and others.<br/>
