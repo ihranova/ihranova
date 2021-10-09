@@ -23,9 +23,9 @@ Linkedin: https://www.linkedin.com/in/ina-hranova/
 Additional Skills: Terminal, DNS, NPM, Google Analytics, CMS, Accessibility, Optimization Tools, SERP, Google My Business, Hubspot Developer, Google Search Console
 
 # Skills:
-- [x] HTML & CSS3 including flex, animations, grids, Bootstrap
+- [x] HTML & CSS3 including flex, animations, grids, Bootstrap, TailwindCSS
 - [x] Wordpress Development including PSD/Figma to custom theme, hooks, functions, ACF pro, shortcodes, customization settings ect.
-- [x] Javascript, jQuery, AJAX, JSON 
+- [x] Javascript, jQuery, AJAX, JSON, React, React Native, Strapi, Styled Components 
 - [x] Speed Optimization, SEO, Technical SEO Audit
 - [x] Digital marketing - SEO, Google Webmaster Tools, Google Speed Score, Google Search Console, Google My Business
 - [x] Digital marketing tools: MailChimp, Hubspot, Campain Monitor, Beetle Eye 
