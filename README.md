@@ -22,6 +22,8 @@ Linkedin: https://www.linkedin.com/in/ina-hranova/
 
 Additional Skills: Terminal, DNS, NPM, Google Analytics, CMS, Accessibility, Optimization Tools, SERP, Google My Business, Hubspot Developer, Google Search Console
 
+![GitHub Views](https://komarev.com/ghpvc/?username=ihranova)
+
 # Skills:
 - [x] HTML & CSS3 including flex, animations, grids, Bootstrap, TailwindCSS
 - [x] Wordpress Development including PSD/Figma to custom theme, hooks, functions, ACF pro, shortcodes, customization settings ect.
