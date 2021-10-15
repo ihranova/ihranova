@@ -46,7 +46,7 @@ Additional Skills: Terminal, DNS, NPM, Google Analytics, CMS, Accessibility, Opt
 - [ ] Firebase
 - [ ] Strapi
 - [ ] Gatsby/Next.js + CMS
-- [ ] TailwindCSS 
+- [x] TailwindCSS 
 <br/> 
 # Planning to Learn checklist 2022 💡
 
