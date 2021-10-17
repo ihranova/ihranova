@@ -12,7 +12,7 @@ My services include:<br/>
 ✔️ React Native Development<br/>
 ✔️ Speed Optimization, SEO, Technical SEO Audit<br/>
 
-👩‍💻 Additionally, I am open to making the transition into the right part-time role. I am open to taking on new clients and projects.<br/>
+👩‍💻 Additionally, I am open to making the transition into the right part-time role or freelance role. I am open to taking on new clients and projects.<br/>
 
 ✉️ Feel free to shoot me a message!<br/>
 
