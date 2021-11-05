@@ -17,7 +17,7 @@ My services include:<br/>
 ✉️ Feel free to shoot me a message!<br/>
 
 Email: <a href = "mailto:ina.hranova@gmail.com">ina.hranova@gmail.com</a><br/>
-Upwork: https://www.upwork.com/freelancers/~012a1fb32e2126982c <br/>
+Personal Website: <a href = "https://inahranova.com">inahranova.com</a><br/>
 Linkedin: https://www.linkedin.com/in/ina-hranova/
 
 Additional Skills: Terminal, DNS, NPM, Google Analytics, CMS, Accessibility, Optimization Tools, SERP, Google My Business, Hubspot Developer, Google Search Console
