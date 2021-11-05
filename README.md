@@ -44,7 +44,7 @@ Additional Skills: Terminal, DNS, NPM, Google Analytics, CMS, Accessibility, Opt
 - [x] Webpack
 - [x] web scraping
 - [ ] Firebase
-- [ ] Strapi
+- [x] Strapi
 - [ ] Gatsby/Next.js + CMS
 - [x] TailwindCSS 
 <br/> 
