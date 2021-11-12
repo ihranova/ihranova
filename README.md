@@ -52,6 +52,7 @@ Additional Skills: Terminal, DNS, NPM, Google Analytics, CMS, Accessibility, Opt
 
 - [ ] AWS
 - [ ] GSAP
+- [ ] Framer Motion (under React)
 - [ ] Gutenberg
 - [ ] Payments- Stripe
 
