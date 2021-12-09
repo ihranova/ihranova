@@ -1,5 +1,5 @@
 # Hi, I'm Ina <img class="emoji" alt="wave" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">
-I'm a full-stack web developer with a front-end focus. I have 5+ years of experience in the web development field. You will find me developing creative websites using HTML, CSS/SASS, WordPress, JavaScript, jQuery, React, Gatsby, APIs, and mobile applications using React Native. I'm a fast learner and take pride in building websites and applications that are responsive, accessible, and have a great user experience. Additionally, I am using back-end technologies such as WordPress, Node.js(Strapi), Express.js, and GraphQL.<br/>
+I'm a full-stack web developer with a front-end focus. I have 5+ years of experience in the web development field. You will find me developing creative websites using HTML, CSS/SASS, WordPress, JavaScript, jQuery, React, Gatsby, APIs, and mobile applications using React Native. I'm a fast learner and take pride in building websites and applications that are responsive, accessible, and have a great user experience. Additionally, I am using back-end technologies such as WordPress, Node.js(Strapi) and GraphQL.<br/>
 
 
 My services include:<br/>
