@@ -47,15 +47,15 @@ Additional Skills: Terminal, DNS, NPM, Google Analytics, CMS, Accessibility, Opt
 - [x] Webpack
 - [x] web scraping
 - [ ] Firebase
-- [x] Strapi
-- [ ] Gatsby/Next.js + CMS
+- [x] Strapi - progressing
+- [x] Gatsby/Next.js + CMS
 - [x] TailwindCSS 
 <br/> 
 # Planning to Learn checklist 2022 💡
 
-- [ ] AWS
+- [ ] AWS - progressing
 - [ ] GSAP
-- [ ] Framer Motion (under React)
+- [ ] Framer Motion (under React) - progressing
 - [ ] Gutenberg
-- [ ] Payments- Stripe
+- [ ] Payments - Stripe
 
