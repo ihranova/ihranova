@@ -58,4 +58,5 @@ Additional Skills: Terminal, DNS, NPM, Google Analytics, CMS, Accessibility, Opt
 - [ ] Framer Motion (under React) - progressing
 - [ ] Gutenberg
 - [ ] Payments - Stripe
+- [ ] Storybook
 
