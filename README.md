@@ -45,7 +45,8 @@ Additional Skills: Terminal, DNS, NPM, Google Analytics, CMS, Accessibility, Opt
 - [ ] Gutenberg
 - [ ] Payments - Stripe
 - [ ] Storybook
-<br/>
+
+
 # Learning checklist 2020 - 2021 💡
 
 - [x] React Native
