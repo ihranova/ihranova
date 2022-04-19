@@ -16,7 +16,6 @@ My services include:<br/>
 
 ✉️ Feel free to shoot me a message!<br/>
 
-Email: <a href = "mailto:ina.hranova@gmail.com">ina.hranova@gmail.com</a><br/>
 Personal Website: <a href = "https://inahranova.com">inahranova.com</a><br/>
 Linkedin: https://www.linkedin.com/in/ina-hranova/
 
