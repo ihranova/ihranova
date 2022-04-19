@@ -37,6 +37,15 @@ Additional Skills: Terminal, DNS, NPM, Google Analytics, CMS, Accessibility, Opt
 <br/>
 <a href="https://app.daily.dev/ihranova"><img src="https://api.daily.dev/devcards/e0362ca8ecc64566ad37d40178a22f8d.png?r=qph" width="300" alt="Ina Hranova's Dev Card"/></a>
 
+# Planning to Learn checklist 2022 💡
+
+- [ ] AWS - progressing
+- [ ] GSAP
+- [ ] Framer Motion (under React) - progressing
+- [ ] Gutenberg
+- [ ] Payments - Stripe
+- [ ] Storybook
+<br/>
 # Learning checklist 2020 - 2021 💡
 
 - [x] React Native
@@ -49,13 +58,3 @@ Additional Skills: Terminal, DNS, NPM, Google Analytics, CMS, Accessibility, Opt
 - [x] Strapi - progressing
 - [x] Gatsby/Next.js + CMS
 - [x] TailwindCSS 
-<br/> 
-# Planning to Learn checklist 2022 💡
-
-- [ ] AWS - progressing
-- [ ] GSAP
-- [ ] Framer Motion (under React) - progressing
-- [ ] Gutenberg
-- [ ] Payments - Stripe
-- [ ] Storybook
-
