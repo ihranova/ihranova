@@ -43,7 +43,7 @@ Additional Skills: Terminal, DNS, NPM, Google Analytics, CMS, Accessibility, Opt
 - [ ] GSAP
 - [ ] Framer Motion (under React) - progressing
 - [ ] Gutenberg
-- [ ] Payments - Stripe
+- [ ] Payments - Stripe -  progressing
 - [ ] Storybook
 
 
@@ -55,7 +55,7 @@ Additional Skills: Terminal, DNS, NPM, Google Analytics, CMS, Accessibility, Opt
 - [x] PropTypes
 - [x] Webpack
 - [x] web scraping
-- [ ] Firebase
+- [ ] Firebase -  progressing
 - [x] Strapi - progressing
-- [x] Gatsby/Next.js + CMS
+- [x] Gatsby/Next.js + CMS -  progressing
 - [x] TailwindCSS 
