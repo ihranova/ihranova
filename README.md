@@ -39,8 +39,8 @@ Additional Skills: Terminal, DNS, NPM, Google Analytics, CMS, Accessibility, Opt
 
 # Planning to Learn checklist 2022 💡
 
-- [ ] Figma - progressing
-- [ ] AWS - progressing
+- [ ] Figma - in progress
+- [ ] AWS - in progress
 - [ ] GSAP
 - [ ] Framer Motion (under React) - in progress
 - [ ] Gutenberg - in progress
