@@ -43,6 +43,7 @@ Additional Skills: Terminal, DNS, NPM, Google Analytics, CMS, Accessibility, Opt
 - [ ] Payments - Stripe
 - [ ] Storybook
 - [ ] GSAP
+- [ ] Firebase - in progress
 
 
 # Planning to Learn checklist 2022 💡
@@ -52,7 +53,7 @@ Additional Skills: Terminal, DNS, NPM, Google Analytics, CMS, Accessibility, Opt
 - [ ] AWS/VPS + Server administration + DNS - in progress
 - [ ] Framer Motion (under React) - in progress
 - [ ] Gutenberg - in progress
-- [ ] Firebase - in progress
+- [ ] GraphQL - in progress
 
 
 # Learning checklist 2020 - 2021 💡
