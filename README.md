@@ -38,22 +38,20 @@ Additional Skills: Terminal, DNS, NPM, Google Analytics, CMS, Accessibility, Opt
 <a href="https://app.daily.dev/ihranova"><img src="https://api.daily.dev/devcards/e0362ca8ecc64566ad37d40178a22f8d.png?r=qph" width="300" alt="Ina Hranova's Dev Card"/></a>
 
 
-# Planning to Learn checklist 2023 💡
-- [ ] CI/CD 
+# Planning to Learn checklist 2024 💡
+- [ ] CI/CD & VPS
 - [ ] Payments - Stripe
-- [ ] Storybook
 - [ ] GSAP
-- [ ] Firebase - in progress
+- [ ] GraphQL
 
 
-# Planning to Learn checklist 2022 💡
+# Planning to Learn checklist 2022 & 2023 💡
 
 - [x] Strapi - in progress
-- [ ] Figma - in progress
+- [x] Figma - in progress
 - [ ] AWS/VPS + Server administration + DNS - in progress
 - [ ] Framer Motion (under React) - in progress
-- [ ] Gutenberg - in progress
-- [ ] GraphQL - in progress
+- [x] Gutenberg - in progress
 
 
 # Learning checklist 2020 - 2021 💡
